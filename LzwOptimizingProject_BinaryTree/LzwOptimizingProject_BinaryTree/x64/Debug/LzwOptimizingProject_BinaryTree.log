@@ -1,0 +1,8 @@
+﻿  LzwDecodeOptimize.cpp
+e:\lzwoptimizingproject_binarytree\lzwoptimizingproject_binarytree\lzwdecodeoptimize.cpp(46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\lzwoptimizingproject_binarytree\lzwoptimizingproject_binarytree\lzwdecodeoptimize.cpp(138): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\lzwoptimizingproject_binarytree\lzwoptimizingproject_binarytree\lzwdecodeoptimize.cpp(143): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\lzwoptimizingproject_binarytree\lzwoptimizingproject_binarytree\lzwdecodeoptimize.cpp(146): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  LzwEncodeOptimize.cpp
+  正在生成代码...
+  LzwOptimizingProject_BinaryTree.vcxproj -> E:\LzwOptimizingProject_BinaryTree\x64\Debug\LzwOptimizingProject_BinaryTree.exe
